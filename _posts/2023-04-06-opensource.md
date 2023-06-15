@@ -2,7 +2,7 @@
 title: '开源课程博客总结'
 date: 2023-04-06
 # permalink: /posts/2012/08/blog-post-4/
-permalink: /posts/opensource/
+permalink: /posts/2023/04/06/opensource/
 # tags:
 #   - cool posts
 #   - category1
