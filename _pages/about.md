@@ -15,5 +15,5 @@ I am a first-year graduate in the School of Data Science and Engineering(DaSE) a
 
 ## Research Interest
 - Graph Representation Learning
-- Graph Prompt Tuning
-- Pre-training Language Model
+- Graph Transformer
+- Prompt Learning
