@@ -9,7 +9,9 @@ permalink: /posts/2023/04/06/opensource/
 #   - category2
 ---
 
-### [开源作业](https://github.com/X-lab2017/oss101/issues/33)总结与反思
+## [开源作业](https://github.com/X-lab2017/oss101/issues/33)总结与反思
+
+
 - **博客主题及其选取原因**  
 我选择的主题是[Hugo Theme](https://themes.gohugo.io/)中的[Mainroad](https://themes.gohugo.io/themes/mainroad/)。至于为什么要选择这个主题，一是因为它的名字Mainroad，作为我的第一个Homepage，当然希望能一次性成功。因此，能够方便的部署就是第一要求，这个主题提供了完整的使用文档，从Installation到Customization都非常完整。第二个原因就是这个主题比较小众，也很有极客风格，很吸引我。
 - **博客页面布局及其设计思路**  
