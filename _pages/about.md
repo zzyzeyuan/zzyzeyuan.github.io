@@ -19,5 +19,5 @@ I am a first-year graduate in the School of Data Science and Engineering(DaSE) a
 
 ## Publications
 ### Under review:   
-*Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*
+*Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
 Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li  
