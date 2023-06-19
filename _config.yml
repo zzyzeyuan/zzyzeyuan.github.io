@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zeyuan Zhao / My Homepages"
+title                    : "Zeyuan Zhao / Homepage"
 title_separator          : "-"
 name                     : &name "Zeyuan Zhao"
 description              : &description "personal description"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
