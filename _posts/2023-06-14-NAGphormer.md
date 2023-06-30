@@ -33,5 +33,5 @@ Transformer在其他的图挖掘任务中都表现的很好，但是现有的Gra
 
     优：①可以在大图上使用。将每一个node的固定K跳邻居变成一个K维的序列送入Transformer，而不是直接将所有node变成一个序列送入Transformer，避免了送入Transformer的序列很长，同时可以提前计算k-hop的X，同时还可以小批量送进网络进行处理。②时间复杂度$O(n(K+1)^2d)$是n的线性复杂度。
 
-    缺点：空间复杂度高，除了Transformer backbone的开销，引入的Attention-based READOUT也多了参数，最后的MLP也新的参数，可能内存占用比较大。
+    缺点：空间复杂度高，除了Transformer backbone的开销，引入的Attention-based READOUT也多了参数，最后的MLP也新的参数，可能内存占用比较大。另外，没有用OGB数据集做实验，我认为应该加入OGB节点分类相关数据集的实验。
 
