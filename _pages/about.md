@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 
-I am a second-year graduate student in the School of Data Science and Engineering(DaSE) at [East China Normal University](https://www.ecnu.edu.cn), supervised by [Prof. Xiang Li](https://lixiang3776.github.io/). Previously, I received my Bachelor degree in Computer Science and Technology and Financial Engineering (double degree) from [Sichuan University](https://www.scu.edu.cn) in 2022.
+I am a second-year graduate student in the School of Data Science and Engineering (DaSE) at [East China Normal University](https://www.ecnu.edu.cn), supervised by [Prof. Xiang Li](https://lixiang3776.github.io/). Previously, I received my Bachelor degree in Computer Science and Technology and Financial Engineering (double degree) from [Sichuan University](https://www.scu.edu.cn) in 2022.
 
 ## Research Interest
 - Graph Representation Learning
