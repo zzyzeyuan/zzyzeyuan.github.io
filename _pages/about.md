@@ -19,8 +19,8 @@ I am a second-year graduate student in the School of Data Science and Engineerin
 
 ## Publications
 ### Under review:   
-*Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
-Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li  
+<!-- *Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
+Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li   -->
 
 <!-- *Enhancing Heterogeneous Graph Embedding via Transformer with Latent Attribute Interaction*  
 **Zeyuan Zhao**, Qingqing Ge, Anfeng Cheng, Yiding Liu, Xiang Li, Shuaiqiang Wang  -->
