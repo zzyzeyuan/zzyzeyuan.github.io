@@ -22,8 +22,8 @@ I am a second-year graduate student in the School of Data Science and Engineerin
 *Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
 Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li  
 
-*Enhancing Heterogeneous Graph Embedding via Transformer with Latent Attribute Interaction*  
-**Zeyuan Zhao**, Qingqing Ge, Anfeng Cheng, Yiding Liu, Xiang Li, Shuaiqiang Wang 
+<!-- *Enhancing Heterogeneous Graph Embedding via Transformer with Latent Attribute Interaction*  
+**Zeyuan Zhao**, Qingqing Ge, Anfeng Cheng, Yiding Liu, Xiang Li, Shuaiqiang Wang  -->
 
 <!-- *PSP: Pre-Training and Structure Prompt Tuning for Graph Neural Networks*  
 Qingqing Ge, **Zeyuan Zhao**, Yiding Liu, Anfeng Cheng, Xiang Li, Shuaiqiang Wang, Dawei Yin -->
