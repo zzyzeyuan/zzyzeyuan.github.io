@@ -14,8 +14,8 @@ I am a second-year graduate student in the School of Data Science and Engineerin
 
 ## Research Interest
 - Graph Representation Learning
-- GNNs & Graph Transformer
-- Prompt Engineering
+- Graph Prompt Learning
+- Heterogeneous Information Networks Analysis
 
 ## Publications
 ### Under review:   
