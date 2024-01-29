@@ -13,9 +13,10 @@ redirect_from:
 I am a second-year graduate student in School of Data Science and Engineering (DaSE) at [East China Normal University](https://www.ecnu.edu.cn), supervised by [Prof. Xiang Li](https://lixiang3776.github.io/). Previously, I received my Bachelor degree in Computer Science and Technology and Financial Engineering (double degree) from [Sichuan University](https://www.scu.edu.cn) in 2022.
 
 ## Research Interest
-- Graph Representation Learning
-- Graph Prompt Learning
+- Graph Data Mining
+- Large Language Models
 - Heterogeneous Information Networks Analysis
+- Graph Prompt Tuning
 
 ## Publications
 ### Under review:   
