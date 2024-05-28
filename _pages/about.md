@@ -20,11 +20,11 @@ I am a second-year graduate student in School of Data Science and Engineering (D
 ## Publications  
 *HetCAN: A Heterogeneous Graph Cascade Attention Network with Dual-Level Awareness*  
 **Zeyuan Zhao**, Qingqing Ge, Anfeng Cheng, Yiding Liu, Xiang Li, Shuaiqiang Wang.  
-In **ECML-PKDD 2024 (CCF B)**, Vilnius, Lithuania.
+In **ECML-PKDD 2024**, Vilnius, Lithuania. (CCF B)
 
 *PSP: Pre-Training and Structure Prompt Tuning for Graph Neural Networks*  
 Qingqing Ge, **Zeyuan Zhao**, Yiding Liu, Anfeng Cheng, Xiang Li, Shuaiqiang Wang, Dawei Yin  
-In **ECML-PKDD 2024 (CCF B)**, Vilnius, Lithuania.
+In **ECML-PKDD 2024**, Vilnius, Lithuania. (CCF B)
 
 *Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
 Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li  
