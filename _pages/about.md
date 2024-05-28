@@ -18,13 +18,15 @@ I am a second-year graduate student in School of Data Science and Engineering (D
 - Heterogeneous Information Networks Analysis
 - Graph Prompt Tuning
 
-## Publications
-### Under review:   
-<!-- *Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
-Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li   -->
+## Publications  
+*HetCAN: A Heterogeneous Graph Cascade Attention Network with Dual-Level Awareness*,
+**Zeyuan Zhao**, Qingqing Ge, Anfeng Cheng, Yiding Liu, Xiang Li, Shuaiqiang Wang.
+In **ECML-PKDD 2024**, Vilnius, Lithuania.
 
-<!-- *Enhancing Heterogeneous Graph Embedding via Transformer with Latent Attribute Interaction*  
-**Zeyuan Zhao**, Qingqing Ge, Anfeng Cheng, Yiding Liu, Xiang Li, Shuaiqiang Wang  -->
+*PSP: Pre-Training and Structure Prompt Tuning for Graph Neural Networks*  
+Qingqing Ge, **Zeyuan Zhao**, Yiding Liu, Anfeng Cheng, Xiang Li, Shuaiqiang Wang, Dawei Yin
+In **ECML-PKDD 2024**, Vilnius, Lithuania.
 
-<!-- *PSP: Pre-Training and Structure Prompt Tuning for Graph Neural Networks*  
-Qingqing Ge, **Zeyuan Zhao**, Yiding Liu, Anfeng Cheng, Xiang Li, Shuaiqiang Wang, Dawei Yin -->
+*Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
+Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li  
+Pre-print, submitted to CIKM 2024.
