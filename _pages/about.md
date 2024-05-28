@@ -12,11 +12,10 @@ redirect_from:
 
 I am a second-year graduate student in School of Data Science and Engineering (DaSE) at [East China Normal University](https://www.ecnu.edu.cn), supervised by [Prof. Xiang Li](https://lixiang3776.github.io/). Previously, I received my Bachelor degree in Computer Science and Technology and Financial Engineering (double degree) from [Sichuan University](https://www.scu.edu.cn) in 2022.
 
-## Research Interest
+## Research Interests
 - Graph Data Mining
-- Large Language Models
 - Heterogeneous Information Networks Analysis
-- Graph Prompt Tuning
+- Large Language Models
 
 ## Publications  
 *HetCAN: A Heterogeneous Graph Cascade Attention Network with Dual-Level Awareness*,  
@@ -29,4 +28,4 @@ In **ECML-PKDD 2024**, Vilnius, Lithuania.
 
 *Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
 Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li  
-Pre-print, submitted to CIKM 2024.
+**Pre-print**, submitted to CIKM 2024.
