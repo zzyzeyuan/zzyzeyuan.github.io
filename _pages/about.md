@@ -32,7 +32,7 @@ Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li
 
 ## Experience
 <p align = 'left'>
-<img src="antgroup.png" width=120>
+<img src="ant2.png" width=120>
 </p>
 Antgroup, Shanghai, China
 
