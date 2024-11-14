@@ -29,3 +29,20 @@ In **ECML-PKDD 2024**, Vilnius, Lithuania. (CCF B)
 *Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
 Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li  
 **Pre-print**.
+
+## Experience
+<p align = 'left'>
+<img src="antgroup.png" width=120>
+</p>
+Antgroup, Shanghai, China
+
+- Algorithm Engineering Intern, Summer 2024 
+
+
+<p align = 'left'>
+<img src="Baidu.svg.png" width=100>
+</p>
+Baidu, Beijing, China
+
+- Research Intern, Summer 2023
+- Mentor: Anfeng Cheng, Yiding Liu
