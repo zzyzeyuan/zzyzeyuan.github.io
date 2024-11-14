@@ -32,7 +32,7 @@ Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li
 
 ## Experience
 <p align = 'left'>
-<img src="ant2.png" width=120>
+<img src="https://github.com/zzyzeyuan/zzyzeyuan.github.io/blob/master/_pages/antgroup.png" width=120>
 </p>
 Antgroup, Shanghai, China
 
@@ -40,7 +40,7 @@ Antgroup, Shanghai, China
 
 
 <p align = 'left'>
-<img src="Baidu.svg.png" width=100>
+<img src="https://github.com/zzyzeyuan/zzyzeyuan.github.io/blob/master/_pages/Baidu.svg.png" width=100>
 </p>
 Baidu, Beijing, China
 
