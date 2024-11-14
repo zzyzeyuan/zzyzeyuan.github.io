@@ -31,17 +31,17 @@ Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li
 **Pre-print**.
 
 ## Experience
-<p align = 'left'>
-<img src="https://github.com/zzyzeyuan/zzyzeyuan.github.io/blob/master/_pages/antgroup.png" width=120>
-</p>
+<!-- <p align = 'left'>
+<img src="/_pages/antgroup.png" width=120>
+</p> -->
 Antgroup, Shanghai, China
 
 - Algorithm Engineering Intern, Summer 2024 
 
 
-<p align = 'left'>
-<img src="https://github.com/zzyzeyuan/zzyzeyuan.github.io/blob/master/_pages/Baidu.svg.png" width=100>
-</p>
+<!-- <p align = 'left'>
+<img src="/_pages/Baidu.svg.png" width=100>
+</p> -->
 Baidu, Beijing, China
 
 - Research Intern, Summer 2023
