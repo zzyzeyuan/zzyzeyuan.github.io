@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 
-I am a third-year graduate student in School of Data Science and Engineering (DaSE) at [East China Normal University](https://www.ecnu.edu.cn), supervised by [Prof. Xiang Li](https://lixiang3776.github.io/). Previously, I received my Bachelor degree in Computer Science and Financial Engineering (double degree) from [Sichuan University](https://www.scu.edu.cn) in 2022.
+Zeyuan is a third-year(final year) graduate student in School of Data Science and Engineering (DaSE) at [East China Normal University](https://www.ecnu.edu.cn), supervised by [Prof. Xiang Li](https://lixiang3776.github.io/). Previously, I received my Bachelor degree in Computer Science and Financial Engineering (double degree) from [Sichuan University](https://www.scu.edu.cn) in 2022.
 
 ## Research Interests
 - Graph machine learning
@@ -34,7 +34,7 @@ Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li
 <!-- <p align = 'left'>
 <img src="/_pages/antgroup.png" width=120>
 </p> -->
-Antgroup, Shanghai, China
+Antgroup, Shanghai, CN 
 
 - Algorithm Engineering Intern, Summer 2024 
 
@@ -42,7 +42,7 @@ Antgroup, Shanghai, China
 <!-- <p align = 'left'>
 <img src="/_pages/Baidu.svg.png" width=100>
 </p> -->
-Baidu, Beijing, China
+Baidu, Beijing, CN
 
 - Research Intern, Summer 2023
 - Mentor: Anfeng Cheng, Yiding Liu
