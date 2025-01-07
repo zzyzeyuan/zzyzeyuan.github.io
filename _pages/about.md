@@ -20,11 +20,11 @@ Zeyuan is a third-year(final year) graduate student in School of Data Science an
 ## Publications  
 [*HetCAN: A Heterogeneous Graph Cascade Attention Network with Dual-Level Awareness*](https://arxiv.org/abs/2311.03275)  
 **Zeyuan Zhao**, Qingqing Ge, Anfeng Cheng, Yiding Liu, Xiang Li, Shuaiqiang Wang.  
-In **ECML-PKDD 2024**, Vilnius, Lithuania. (CCF B)
+In **ECML-PKDD 2024**, Vilnius, Lithuania.
 
 *PSP: Pre-Training and Structure Prompt Tuning for Graph Neural Networks*  
 Qingqing Ge, **Zeyuan Zhao**, Yiding Liu, Anfeng Cheng, Xiang Li, Shuaiqiang Wang, Dawei Yin  
-In **ECML-PKDD 2024**, Vilnius, Lithuania. (CCF B)
+In **ECML-PKDD 2024**, Vilnius, Lithuania.
 
 *Probabilistic Graphical Model for Robust Graph Neural Networks against Noisy Labels*  
 Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li  
