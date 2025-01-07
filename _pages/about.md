@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 
-Zeyuan is a third-year(final year) graduate student in School of Data Science and Engineering (DaSE) at [East China Normal University](https://www.ecnu.edu.cn), supervised by [Prof. Xiang Li](https://lixiang3776.github.io/). Previously, I received my Bachelor degree in Computer Science and Financial Engineering (double degree) from [Sichuan University](https://www.scu.edu.cn) in 2022.
+Zeyuan is a third-year (final year) graduate student in School of Data Science and Engineering (DaSE) at [East China Normal University](https://www.ecnu.edu.cn), supervised by [Prof. Xiang Li](https://lixiang3776.github.io/). Previously, I received my Bachelor degree in Computer Science and Financial Engineering (double degree) from [Sichuan University](https://www.scu.edu.cn) in 2022.
 
 ## Research Interests
 - Graph machine learning
