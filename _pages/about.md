@@ -33,8 +33,12 @@ Qingqing Ge, Jianxiang Yu, **Zeyuan Zhao**, Xiang Li
 **Pre-print**.
 
 ## Professional Experience
+<!-- <p align = 'left'>
+<img src="/_pages/antgroup.png" width=120>
+</p> -->
 JD.com
 - July 2025 - Present, Algorithm Engineer
+
 <!-- <p align = 'left'>
 <img src="/_pages/antgroup.png" width=120>
 </p> -->
