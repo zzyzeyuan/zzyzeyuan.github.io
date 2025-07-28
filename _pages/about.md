@@ -10,7 +10,7 @@ redirect_from:
 
 ## Biography
 I am an algorithm engineer at JD.com, working on display advertising and recommendation systems.
-I earned my Master in Computer Science from [East China Normal University](https://www.ecnu.edu.cn), 
+I earned my Master degree in Computer Science from [East China Normal University](https://www.ecnu.edu.cn), 
 supervised by [Prof. Xiang Li](https://lixiang3776.github.io/). 
 Previously, I received my Bachelor degree in Computer Science and Financial Engineering (double degree) from [Sichuan University](https://www.scu.edu.cn) in 2022.
 
